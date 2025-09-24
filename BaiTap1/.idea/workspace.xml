@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb38e34-a9c8-4eab-b7e9-2413cb4c10bf" name="Changes" comment="" />
+    <list default="true" id="5bb38e34-a9c8-4eab-b7e9-2413cb4c10bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../bai1/app/src/main/java/com/example/bai1/MainActivity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lognin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lognin/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lognin/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lognin/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lognin/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lognin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lognin/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1/app/src/main/AndroidManifest.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,23 +28,23 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Nhom-ops"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nhom-ops&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Quangvinh100924/BaiTap1.git",
-    "accountId": "f57c9bb1-522a-47f5-87d4-806c43cf576a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Quangvinh100924/bai1.git&quot;,
+    &quot;accountId&quot;: &quot;f57c9bb1-522a-47f5-87d4-806c43cf576a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="327tLwPBBmarSCoEPmeY2tCoxIC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,7 +61,9 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vn449/AndroidStudioProjects/bai12"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
